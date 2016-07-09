@@ -1,5 +1,5 @@
 # samplegrommet
-testing out grommet
+testing out grommet with redux 
 
 npm install
 
